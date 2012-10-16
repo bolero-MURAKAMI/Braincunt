@@ -1,0 +1,6 @@
+
+*.exp
+*.lib
+*.ncb
+*.pdb
+*.suo
